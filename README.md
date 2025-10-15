@@ -36,7 +36,7 @@ Projeto com o objetivo de oferecer um eBook prático e enxuto sobre Java e Progr
 - O foco foi demonstrar conceitos de POO: classe/objeto, encapsulamento, construtor, herança e polimorfismo, com exemplos práticos que você pode compilar e executar localmente.
 
 
-📚 Estrutura do eBook / capítulos
+## 📚 Estrutura do eBook / capítulos
 
 - Introdução — O Renascimento do Java
 - Capítulo 1 — O Começo da Jornada: Entendendo o Java (Hello World)
@@ -47,7 +47,7 @@ Projeto com o objetivo de oferecer um eBook prático e enxuto sobre Java e Progr
 - Conclusão — O Java Está Só Começando
 
 
-💡 Sugestões de uso
+##💡 Sugestões de uso
 
 - Estude capítulo por capítulo e rode os exemplos no seu IDE.
 - Modifique os exemplos (adicione atributos, métodos ou novos objetos) para praticar.
