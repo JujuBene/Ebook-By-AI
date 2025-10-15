@@ -10,41 +10,49 @@
     preview do ebook
 </p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este documento foi criado a partir do roteiro do Episódio 1 — "O que é, afinal, a IA Generativa?" — e estrutura o projeto para reprodução automática usando ferramentas de IA.
+# Projeto E-Book Gerado por I.A.s
 
-Projeto com o objetivo de criar um episódio piloto de podcast (≈5 minutos) totalmente gerado com auxílio de IA, usando uma esteira de prompts para automatizar as etapas criativas: roteiro, voz, capa e edição.
+
+ > ℹ️ **NOTE:** Este documento resume o eBook "Java Reloaded: O Poder da Programação Orientada a Objetos" e organiza o projeto como material didático pronto para estudo, execução dos exemplos e reprodução dos pequenos exercícios em Java.
+
+Projeto com o objetivo de oferecer um eBook prático e enxuto sobre Java e Programação Orientada a Objetos (POO), com explicações simples, exemplos reais e pequenos trechos de código executáveis. Ideal para quem quer aprender os conceitos essenciais e aplicar em mini-projetos.
 
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Gemini](https://gemini.google.com/?hl=pt-BR)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Showcode](https://showcode.app/)
+- PowerPoint
+- Java JDK 11+ (recomendado JDK 17 ou superior)
 
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via ChatGPT: estrutura de abertura, diálogo entre dois apresentadores (Ana e Lucas), partes conceituais e chamadas finais.
-- Vozes: prompts para ElevenLabs usando a conversão do roteiro em falas, com marcações de entonação e pausas.
-- Artes: prompts para Gemini para gerar capas (várias variações).
-- Edição: importação do áudio sintetizado no CapCut para equalização, adição de trilha sonora e cortes finais.
+- Conteúdo escrito com linguagem simples e direta, dividido em introdução, 5 capítulos e conclusão.
+- Cada capítulo traz um exemplo de código curto e contextualizado (Hello World, cadastro de aluno, conta bancária, herança/polimorfismo e cadastro de produtos).
+- O foco foi demonstrar conceitos de POO: classe/objeto, encapsulamento, construtor, herança e polimorfismo, com exemplos práticos que você pode compilar e executar localmente.
 
 
-## 🛠️ Instruções de execução
+📚 Estrutura do eBook / capítulos
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+- Introdução — O Renascimento do Java
+- Capítulo 1 — O Começo da Jornada: Entendendo o Java (Hello World)
+- Capítulo 2 — Pensando em Objetos: A Base da POO (Classe Aluno)
+- Capítulo 3 — Encapsulamento: Protegendo seus Dados (ContaBancaria)
+- Capítulo 4 — Herança e Polimorfismo: Reaproveitando e Adaptando Código (Funcionario / Gerente)
+- Capítulo 5 — Mãos à Obra: Projeto Final com POO (Cadastro de Produto)
+- Conclusão — O Java Está Só Começando
 
-- 🤖 1. Use os prompts de roteiro para geração do roteiro `ChatGPT`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt para gerar a síntese de voz no `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Gemini`
+
+💡 Sugestões de uso
+
+- Estude capítulo por capítulo e rode os exemplos no seu IDE.
+- Modifique os exemplos (adicione atributos, métodos ou novos objetos) para praticar.
+- Transforme o exemplo do produto em um pequeno sistema com ArrayList<Produto> para listar, adicionar e buscar produtos.
+
 
 ## 👨‍💻 Expert
 
