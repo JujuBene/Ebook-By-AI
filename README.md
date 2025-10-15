@@ -47,7 +47,7 @@ Projeto com o objetivo de oferecer um eBook prático e enxuto sobre Java e Progr
 - Conclusão — O Java Está Só Começando
 
 
-##💡 Sugestões de uso
+## 💡 Sugestões de uso
 
 - Estude capítulo por capítulo e rode os exemplos no seu IDE.
 - Modifique os exemplos (adicione atributos, métodos ou novos objetos) para praticar.
